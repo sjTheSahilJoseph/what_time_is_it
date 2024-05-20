@@ -1,0 +1,23 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	min-width: 100vw;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #151515;
+}
+
+.container {
+	font-size: 7rem;
+	color: #c6c6c6;
+}
+
+.colon {
+	color: #777777;
+}
+
